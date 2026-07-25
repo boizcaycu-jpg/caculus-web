@@ -380,6 +380,47 @@
       ],
       "submittedAt": "2026-07-24T10:03:02.960Z",
       "antiCheatViolationCount": 1
+    },
+    {
+      "id": "sub-1784910121561",
+      "examId": "exam-2k9-1",
+      "moduleId": "mod-math-1",
+      "userId": "user-student-1",
+      "userName": "Nguyễn Cường",
+      "studentId": "AECK496692",
+      "score": 0,
+      "totalQuestions": 2,
+      "correctCount": 0,
+      "answers": [],
+      "submittedAt": "2026-07-24T16:22:01.561Z",
+      "antiCheatViolationCount": 0
+    },
+    {
+      "id": "sub-1784910138728",
+      "examId": "exam-2k9-2",
+      "moduleId": "mod-science-2",
+      "userId": "user-student-1",
+      "userName": "Nguyễn Cường",
+      "studentId": "AECK496692",
+      "score": 0,
+      "totalQuestions": 2,
+      "correctCount": 0,
+      "answers": [
+        {
+          "questionId": "q-read-16",
+          "selectedOptionId": "opt-b",
+          "timeSpentSeconds": 30,
+          "isCorrect": false
+        },
+        {
+          "questionId": "q-gen-32",
+          "selectedOptionId": "opt-13-d",
+          "timeSpentSeconds": 30,
+          "isCorrect": false
+        }
+      ],
+      "submittedAt": "2026-07-24T16:22:18.728Z",
+      "antiCheatViolationCount": 0
     }
   ],
   "antiCheatLogs": [
